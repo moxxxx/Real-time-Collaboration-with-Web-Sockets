@@ -1,5 +1,3 @@
-# Real-time-Collaboration-with-Web-Sockets
-a real-time collaborated app with Web Socket
 list of file: html directory, server.js, songs directory
 
 OS: macOS 10.14.0
